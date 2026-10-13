@@ -1,0 +1,8 @@
+# Python 3.11 或更新的兼容版本；以下版本已在 Python 3.12 验证。
+streamlit==1.50.0
+numpy==2.2.6
+plotly==6.3.1
+pandas==2.3.3
+pytest==8.4.2
+# Kaleido 1.x 与 Plotly >=6.1.1 配合；PNG 还需要已安装的 Chrome/Chromium。
+kaleido==1.1.0
